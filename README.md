@@ -17,6 +17,19 @@
  # GRAPHS
  <img width="1909" height="961" alt="image" src="https://github.com/user-attachments/assets/b1af4085-3027-4866-9077-bba7b63b5c75" />
 
+<img width="1018" height="711" alt="image" src="https://github.com/user-attachments/assets/cd7eeb8b-531c-4596-8b8c-3e87696d80e1" />
+
+# KEY QUESTIONS
+VENDORS AND BRANDS THAT HAS HIGH PROFIT MARGIN BUT LOW SALES AND NEED MARKETING FOR THAT
+
+VENDORS WHO HAD LARGEST NUMBER OF UNSOLD INVENTORY
+
+BRAND AND VENDORS WITH HIGHEST GROSS PROFIT
+
+# POWERBI DASHBOARD
+
+
+
  
 
  
