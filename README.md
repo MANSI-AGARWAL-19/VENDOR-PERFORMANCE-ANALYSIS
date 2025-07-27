@@ -15,7 +15,10 @@
  POWER-BI
 
  # GRAPHS
- https://github.com/MANSI-AGARWAL-19/VENDOR-PERFORMANCE-ANALYSIS/blob/main/histogram.jpg
+ <img width="1909" height="961" alt="image" src="https://github.com/user-attachments/assets/b1af4085-3027-4866-9077-bba7b63b5c75" />
+
+ 
+
  
 
  
