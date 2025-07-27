@@ -14,6 +14,8 @@
  
  POWER-BI
 
+ WORD
+
  # GRAPHS
  <img width="1909" height="961" alt="image" src="https://github.com/user-attachments/assets/b1af4085-3027-4866-9077-bba7b63b5c75" />
 
@@ -26,7 +28,14 @@ VENDORS WHO HAD LARGEST NUMBER OF UNSOLD INVENTORY
 
 BRAND AND VENDORS WITH HIGHEST GROSS PROFIT
 
+PURCHASE CONTRIBUTION BY TOP VENDORS
+
 # POWERBI DASHBOARD
+
+<img width="1306" height="729" alt="image" src="https://github.com/user-attachments/assets/06ed83c8-45e2-4d26-94b2-b660c028ba0a" />
+
+AT THE END FULL REPORT IS PREPARED IN MS WORD WITH SOLUTIONS, GRAPHS AND DASHBOARD
+
 
 
 
