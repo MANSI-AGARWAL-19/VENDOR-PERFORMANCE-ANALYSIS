@@ -15,7 +15,7 @@
  POWER-BI
 
  # GRAPHS
- "C:\Users\hp\OneDrive\Desktop\R PROJECT\histogram.jpg"
+ 
 
  
 
